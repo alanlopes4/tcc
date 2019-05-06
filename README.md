@@ -5,5 +5,5 @@ Sistema WEB que tem como objetivo o compartilhamento de conhecimento entre profe
 </br>
 <strong>AUTORES</strong>
 </hr>
-Alan Lopes de Sousa Freitas - alanlopes4@gmail.com 
+Alan Lopes de Sousa Freitas - alanlopes4@gmail.com </br >
 Alisson Lopes de Sousa Freitas - alissonlopes3@gmail.com
